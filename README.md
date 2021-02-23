@@ -26,3 +26,21 @@ INSERT INTO sucursal VALUES (101,'La villa #250','654-874-65-98')
 INSERT INTO sucursal VALUES (102,'Wall Street #500','845-547-98-74')
 INSERT INTO sucursal VALUES (103,'Insurgentes #59','354-875-54-74')
 INSERT INTO sucursal VALUES (104,'Via del corso #542','478-874-32-45')
+
+INSERT INTO Vuelos VALUES (6, '2021/03/07', '18:20', 'Guadalajara', 'Francia', '2', '5')
+INSERT INTO Vuelos VALUES (7, '2021/03/14', '00:30', 'Australia', 'Londres', '5', '7')
+INSERT INTO Vuelos VALUES (8, '2021/03/21', '15:45', 'Morelia', 'Washington DC', '1', '4')
+INSERT INTO Vuelos VALUES (9, '2021/03/28', '11:00', 'Argentina', 'Brasil', '2', '5')
+INSERT INTO Vuelos VALUES (10, '2021/03/30', '21:10', 'Tokio', 'Francia', '2', '5')
+seleccione * de vuelos; 
+INSERT INTO Sucursal VALUES(105, '5 de Mayo # 250', '61-284-214-572')
+INSERT INTO Sucursal VALUES(106, 'Wallaby # 422B', '351-185-2191')
+INSERT INTO Sucursal VALUES(107, 'Primero de Mayo # 101', '443-250-1802')
+INSERT INTO Sucursal VALUES(108, 'Guevara # 20', '54-185-124-1430')
+INSERT INTO Sucursal VALUES(109, 'Huan Xiu Shang #4512', '011-712-381-1079')
+
+
+
+
+
+
